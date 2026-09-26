@@ -1,0 +1,10 @@
+{
+  "retrieved_utc": "2026-09-25T04:31:39.134102+00:00",
+  "source_ids": {
+    "enrollment": "6165f45b-ca93-5bb5-9d06-db29c692a360",
+    "renewals": "5abea2e0-3f8e-4b49-a50d-d63d5fd9103c"
+  },
+  "rows": 5559,
+  "latest_joint_51_state_month": "202605",
+  "states_in_latest": 51
+}
